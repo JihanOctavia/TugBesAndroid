@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TubesAndroid</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+    <string name="slide_1_title">DIET</string>
+    <string name="slide_1_desc"> is the practice of eating food in a regulated and supervised fashion to decrease, maintain, or increase body weight, or to prevent and treat diseases, such as diabetes</string>
+
+    <string name="slide_2_title">FOOD</string>
+    <string name="slide_2_desc"> What about healthy foods?</string>
+
+    <string name="slide_3_title">CALCULATE CALORIES</string>
+    <string name="slide_3_desc">calculate the calories in your body to get the ideal body weight</string>
+
+    <string name="slide_4_title">SPOTS</string>
+    <string name="slide_4_desc">how to exercise well and properly on a diet </string>
+    <string name="about_us">ABOUT US</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="_7_days">7 Days To Be Ideal!</string>
+    <string name="abouttt">Weight loss 7-day diet plan is a diet plan for a week. Each day diet come with striet rules about food groups that you can consume. For an example, weight lost plan day one is only limited to fruits only. While in days two, you can consume several vegetables which is raw or boiled vegetables. This weight lost 7-day diet plan supposed to help you to love up to 6,8kg (15 pounds) in just one week. This kind of diet say is works because many of the foods included in the diet that you consume are low calories and full of vitamin such as fruits and vegetables. Moreover, this can promote weight loss by creating a calories deficit that help you burn calories throughout the day. If you have any health problem, you need to see your doctor for the foods you can consume on this weight loss 7-days diet plan.</string>
+    <string name="about_diet">About Diet</string>
+    <string name="meal_plan">MEAL PLAN</string>
+    <string name="bmi_calculator">BMI CALCULATOR</string>
+
+</resources>
